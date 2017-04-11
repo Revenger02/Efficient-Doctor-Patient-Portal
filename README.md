@@ -26,8 +26,8 @@ Organ Doner Search: User can search donar based on type of organ.
 
 Technology:
 
-Django Framework 
-Mysqli
+Laravel Framework 
+Mysql
 Apache Server
 Html & Css
 Javascript
